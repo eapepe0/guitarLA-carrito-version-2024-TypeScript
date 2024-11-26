@@ -17,3 +17,8 @@ Tiene LocalStorage , TypeScript y customHooks:
 ## Performance
 
 ![performance](https://raw.githubusercontent.com/eapepe0/CarritoCompras2024-GuitarLA/main/performance.jpg)
+
+## Tags
+React
+TypeScript
+Vite
